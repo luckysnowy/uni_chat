@@ -1,0 +1,11 @@
+{
+    "id": "easemob-im-uni-app",
+    "name": "环信IM(uni-app-sdk)",
+    "version": "3.5.2",
+    "description": "环信uni-app SDK 为APP以及各端小程序开发提供一套完整的技术解决方案，在各端的开发环境下，集成 IM 相关的功能更加便捷、高效。",
+    "keywords": [
+        "环信IM",
+        "uni-app即使通讯",
+        "即时通讯"
+    ]
+}
